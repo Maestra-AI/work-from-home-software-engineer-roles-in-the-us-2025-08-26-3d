@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Work From Home Software Engineer Roles in the US by Maestra (updated 2025-08-26)
 
-> This is a curated compilation of **275 Work From Home Software Engineering Jobs** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
+> This is a curated compilation of **268 Work From Home Software Engineering Jobs** roles gathered over the last **3d**, sourced from premium job boards and verified for quality. Each listing includes direct application links and key details to streamline your job search.
 
 ---
 
@@ -29,6 +29,7 @@
 
 | Company | Role | Location | Application |
 |---|---|---|---|
+| Second-nature | Engineering Manager | Remote | [Apply](https://jobs.ashbyhq.com/second-nature/6ac49e4d-9541-41c0-b523-2eafd8206c92?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Geico-external | Engineer II | Chevy Chase, Maryland | [Apply](https://geico.wd1.myworkdayjobs.com/external/job/Chevy-Chase-MD/Engineer-II_R0059067?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Bitwarden | Senior Software Engineer (Cryptography) | Remote | [Apply](https://bitwarden.com/careers/6690946003/?gh_jid=6690946003&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Union | Forward Deployed Engineer (FDE) | Remote | [Apply](https://jobs.ashbyhq.com/union/5ca992df-8607-4511-ab76-17946a83f437?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -43,7 +44,6 @@
 | Paradox | Lead Developer - 🇫🇷 French Fluent | Lisboa, PT | [Apply](https://jobs.ashbyhq.com/paradox/d92d7971-9a66-4ca4-8e38-681205d56087?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Ptc-ptc | Senior Software Engineer | Remote | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Remote-USA/Senior-Software-Engineer_JR110625?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Babylist | Software Engineer III, Commerce | Remote | [Apply](https://job-boards.greenhouse.io/babylist/jobs/5631112004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Phillytechco | Lead Engineer (Hands-On) – C#, Azure & React | $150K-$180K + Equity + Remote | High-Growth Event Planning SaaS Company | Philadelphia, Pennsylvania | [Apply](https://jobs.smartrecruiters.com/PhillyTechCo/744000077774335?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Nerdy | Application Security Engineer | Valparaiso, Indiana | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/7186273?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Nerdy | Application Security Engineer | Remote | [Apply](https://job-boards.greenhouse.io/nerdy/jobs/7186268?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior FullStack Software Engineer- React & Ruby on Rails (Remote - US) | Remote | [Apply](https://apply.workable.com/j/A31049CEB9?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -90,44 +90,45 @@
 | Nbcuniversal3 | Staff Engineer, Rotten Tomatoes | Orlando, Florida | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000077737225?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cognizant | Google Dialog Flow - Sr. Developer | Remote | [Apply](https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00065246853&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cognizant | Sr. Software Engineer B2 | Remote | [Apply](https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00064027631&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| E240df0a-e080-484d-856a-9c7529e008cb | Lead Software Engineer | Remote | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3520642?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Logisticsmanagementinstitute | Android Developer | Remote | [Apply](https://careers-lmi.icims.com/jobs/13052/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Tas-cognizant | Five9 - Sr. Developer | Remote | [Apply](https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00065246852&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Tas-cognizant | Big Data Developer | Remote | [Apply](https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00065350751&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Tas-cognizant | Sr. Software Engineer B2 | Remote | [Apply](https://tas-cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00064027631&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Cotiviti | *Senior Software Engineer | Remote | [Apply](https://careers-cotiviti.icims.com/jobs/16024/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Logisticsmanagementinstitute | Android Developer | Remote | [Apply](https://careers-lmi.icims.com/jobs/13052/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| E240df0a-e080-484d-856a-9c7529e008cb | Lead Software Engineer | Remote | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3520642?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Securityscorecard | Senior Staff Data Engineer | Remote | [Apply](https://securityscorecard.com/company/careers-list/?gh_jid=7188510&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Visitingnurseserviceofnewyorkdbavnshealth | IT Integration Developer | City of New York, New York | [Apply](https://jobs.vnshealth.org/careers-home/jobs/3706/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Orkes | Solutions Architect | Remote | [Apply](https://job-boards.greenhouse.io/orkes/jobs/4894213008?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Orkes | Senior Site Reliability Engineer - Multi-Cloud Environment | Remote | [Apply](https://job-boards.greenhouse.io/orkes/jobs/4894171008?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Tas-uhg | Solutions Architect, Software Engineering | Eden Prairie, Minnesota | [Apply](https://tas-uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2288359&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Tas-uhg | Senior Software Engineer II - Java/ Scala, AWS | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2293443&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Empower2-empower | Principal Software Engineer (Java and Spring Boot) | Remote | [Apply](https://empower.wd1.myworkdayjobs.com/empower/job/Nationwide-Remote/Principal-Software-Engineer--Java-and-Spring-Boot-_R0052904?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Software Engineer - Java and React | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2283698&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | AI Developer (Remote - US) | Remote | [Apply](https://apply.workable.com/j/CFA50C3F82?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | AI - Enabled Software Engineer | Remote | [Apply](https://apply.workable.com/j/163C3BB0F4?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Virtusa | AWS Infra | Remote | [Apply](https://virtusa.taleo.net/careersection/mb_101/jobdetail.ftl?job=CREQ230196&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Cotiviti | *Senior Software Engineer | Remote | [Apply](https://careers-cotiviti.icims.com/jobs/16024/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Visitingnurseserviceofnewyorkdbavnshealth | Data Engineer | City of New York, New York | [Apply](https://jobs.vnshealth.org/careers-home/jobs/3703/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Somatusinc | Senior DevOps Engineer | Reston, Virginia | [Apply](https://careers.somatus.com/jobs/2509/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Careers-govcio | Data Engineer (Remote) | Remote | [Apply](https://careers-govcio.icims.com/jobs/6517/data-engineer-%28remote%29/job?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Addepar1 | Staff Software Engineer | City of New York, New York | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8125223002?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Eu Festoagcokp | Mechatronics Application Engineer - Salt Lake City, UT (Home Office, US) | Salt Lake City, Utah | [Apply](https://jobs.festo.com/job/Home-Office-Mechatronics-Application-Engineer-Salt-Lake-City%2C-UT-UT/1171514901/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Eu Festoagcokp | Mechatronics Application Engineer - Minneapolis, MN (Home Office, US) | Minneapolis, Minnesota | [Apply](https://jobs.festo.com/job/Home-Office-Mechatronics-Application-Engineer-Minneapolis%2C-MN-UT/1171519601/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Addepar1 | Staff Software Engineer | City of New York, New York | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8125223002?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Shutterfly | Principal AI Engineer | Remote | [Apply](https://jobs.jobvite.com/shutterfly/job/o35txfwS?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Beb9960c-acce-44eb-beb5-775ef89b3ee8 | Senior Data Engineer | Burnsville, Minnesota | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=beb9960c-acce-44eb-beb5-775ef89b3ee8&jobId=559607&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Perforce | Principal Professional Services Engineer | Lexington, Massachusetts | [Apply](https://jobs.lever.co/perforce/c13107f8-e755-43a9-b40d-3a937d12d2db?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Unlock | Senior Analytics Engineer | Remote | [Apply](https://job-boards.greenhouse.io/unlock/jobs/5631540004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Serverobotics | Sr. Simulation & Game Engine Engineer (Robotics) | Remote | [Apply](https://jobs.ashbyhq.com/serverobotics/065bda59-1629-4922-b18f-89e12c14a3c5?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Serverobotics | ML Performance Engineer | Remote | [Apply](https://jobs.ashbyhq.com/serverobotics/17be2782-e62a-4059-bf2c-9f71147dd5b8?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Unlock | Senior Analytics Engineer | Remote | [Apply](https://job-boards.greenhouse.io/unlock/jobs/5631540004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Qinetiqus | Cloud Data Engineer | Remote | [Apply](https://careers-qinetiqus.icims.com/jobs/11701/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Aiserajobs | Forward Deployed Engineer | Remote | [Apply](https://job-boards.greenhouse.io/aiserajobs/jobs/5630259004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Aiserajobs | Senior Sales Engineer | City of New York, New York | [Apply](https://job-boards.greenhouse.io/aiserajobs/jobs/5630257004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Pondurance | Security Engineer | Indianapolis, Indiana | [Apply](http://pondurance.applytojob.com/apply/ZMmfbsykHY/Security-Engineer?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Focuskpi | Software Engineer | San Francisco, California | [Apply](http://focuskpi.applytojob.com/apply/l2C3Vomi4f/Software-Engineer?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Ctlprd | Senior Information Security Engineer - Red Team (Remote, US) | Remote | [Apply](https://internaljobs.centurylink.com/job/Remote-Senior-Information-Security-Engineer-Red-Team/1316772000/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Ctlprd | Lead Software Engineer (Remote, US) | Remote | [Apply](https://internaljobs.centurylink.com/job/Remote-Lead-Software-Engineer/1311329700/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Pondurance | Security Engineer | Indianapolis, Indiana | [Apply](http://pondurance.applytojob.com/apply/ZMmfbsykHY/Security-Engineer?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Swa-external | Data Engineer | Dallas, Texas | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-Engineer_R-2025-58377?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Hatchcareers | Sr. Analytics Engineer | Remote | [Apply](https://job-boards.greenhouse.io/hatchcareers/jobs/4593613006?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Abe08199fefe0cb0855c6b150eaab946 | DATA ENGINEER | Remote | [Apply](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=351472&clientkey=ABE08199FEFE0CB0855C6B150EAAB946&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Swa-external | Data Engineer | Dallas, Texas | [Apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-Engineer_R-2025-58377?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Abbott-abbottcareers | Data Engineer | Remote | [Apply](https://abbott.wd1.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Data-Engineer_31126821-2?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Inductiveautomation | Senior Cyber Security Engineer | Sacramento County, California | [Apply](https://jobs.lever.co/inductiveautomation/bd1f464c-2c07-4c67-ab02-d0ed1d4f5d88?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Keysighttechnologiesinc | Application Engineer, Entry | Santa Rosa, California | [Apply](https://jobs.keysight.com/jobs/49251/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -149,10 +150,6 @@
 | Greenlight | Senior Engineer, Production Operations | Atlanta, Georgia | [Apply](https://jobs.lever.co/greenlight/9855d826-6594-4e0f-b12c-75cbb443b015?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Voltagepark.com | Infrastructure Engineer (Observability) | Remote | [Apply](https://jobs.ashbyhq.com/voltagepark.com/c87b3eee-0b1b-43af-9e91-71a90e0b9bc8?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Voltagepark.com | Infrastructure Engineer (Infiniband / NCCL) | Remote | [Apply](https://jobs.ashbyhq.com/voltagepark.com/f2064831-efd0-43b3-a8f3-a1df6d9b9913?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tas-uhg | Senior Software Engineer II - Java/ Scala, AWS | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2293443&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tas-uhg | Senior Data Engineer | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2295585&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tas-uhg | Senior Data Engineer | San Antonio, Texas | [Apply](https://tas-uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2301576&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tas-uhg | Senior Software Engineer II - Databricks , Python | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2283025&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Humana-humana External Career Site | Senior Data Engineer (Python/Databricks) | Remote | [Apply](https://humana.wd1.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Data-Engineer-remote-_R-384340-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Fa-etqo-saasfaprod1.fa.ocs | Test Lead - Data | Remote | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/525962?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior Software Engineer (Database) | Remote | [Apply](https://apply.workable.com/j/932E87E1E9?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -161,8 +158,6 @@
 | Sentinellabs | Senior Staff Software Engineer (Go, Java) - Saas Platform | Remote | [Apply](https://www.sentinelone.com/jobs/6703289003?gh_jid=6703289003&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Forward Deployed Engineer (AI Agent) | Remote | [Apply](https://apply.workable.com/j/F9A4FC5685?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Percepta | Senior GoLang Developer | Austin, Texas | [Apply](https://percepta.taleo.net/careersection/2/jobdetail.ftl?job=046D8&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Ttec | Senior GoLang Developer | Austin, Texas | [Apply](https://ttec.taleo.net/careersection/2/jobdetail.ftl?job=046D8&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Teletech | Senior GoLang Developer | Austin, Texas | [Apply](https://teletech.taleo.net/careersection/2/jobdetail.ftl?job=046D8&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Fa-etqo-saasfaprod1.fa.ocs | DevOps Track Engineer | Remote | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/528066?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Symmetrio | Firmware Engineer | Melbourne, Florida | [Apply](https://apply.workable.com/j/B119230872?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Pano | Senior Software Engineer, Embedded Linux | San Francisco, California | [Apply](https://jobs.lever.co/pano/2ca84052-0f8e-410f-b3cf-efbcbd3cc265?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -206,16 +201,16 @@
 | Navattic | Design Engineer | Remote | [Apply](https://jobs.ashbyhq.com/navattic/1d9eca0b-c9b9-45ed-b1b6-6e1e483bda12?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cvshealth-cvs Health Careers | Senior Software Development Engineer | Hartford, Connecticut | [Apply](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/CT---Hartford/Senior-Software-Development-Engineer_R0604886?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jitterbit | Software Quality Assurance Engineer | Denver, Colorado | [Apply](https://jobs.smartrecruiters.com/Jitterbit/744000077989395?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Sparksoftcorporation | Junior Front End Developer (Angular) | Columbia, Maryland | [Apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/4836474007?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Logisticsmanagementinstitute | Front End Developer - Clearance Required | Remote | [Apply](https://careers-lmi.icims.com/jobs/12999/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Sparksoftcorporation | Junior Front End Developer (Angular) | Columbia, Maryland | [Apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/4836474007?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | 25037 5010 | AI Front End UI Developer (early career) | Grand Prairie, Texas | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=799366&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Operantai | Software Engineer ( Frontend/UI Fullstack ) - SF or Remote in US/Canada | San Francisco, California | [Apply](https://job-boards.greenhouse.io/operantai/jobs/4895551008?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Tines | Senior Software Engineer - Frontend | Remote | [Apply](https://job-boards.greenhouse.io/tines/jobs/5630566004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Crowdstrike-crowdstrikecareers | Sr. Frontend Engineer - Falcon Fusion Platform (Remote) | Remote | [Apply](https://crowdstrike.wd1.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Frontend-Engineer---Falcon-Fusion-Platform--Remote-_R24439?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Mercury | Senior Frontend Engineer - Accounting | San Francisco, California | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5630023004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Icf-icfexternal Career Site | Front-End Engineer | Remote | [Apply](https://icf.wd1.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Front-End-Engineer_R2501754?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Filevine | Senior Software Development Engineer - Frontend | Remote | [Apply](https://jobs.lever.co/filevine/d4dec861-9fa8-464a-bb0b-26b00f4c683a?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Privy | Software Engineer II - Frontend | Remote | [Apply](https://apply.workable.com/j/A9866F4C4B?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Filevine | Senior Software Development Engineer - Frontend | Remote | [Apply](https://jobs.lever.co/filevine/d4dec861-9fa8-464a-bb0b-26b00f4c683a?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior Angular developer (Hold) (Remote - US) | Remote | [Apply](https://apply.workable.com/j/E3AE4B46D3?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior Software Development Engineer - Frontend | Remote | [Apply](https://apply.workable.com/j/F84C59AF9A?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Jobgether | Senior Frontend Software Engineer (Remote - US) | Remote | [Apply](https://apply.workable.com/j/11F9D5D270?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -228,7 +223,6 @@
 | Tas-uhg | Software Engineering Lead - React Native | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2264805&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Sitelprod | Lead Fullstack Software Engineer (EMEA or US based) (Remote, Any Location, US) | Remote | [Apply](https://jobs.foundever.com/job/Remote-Lead-Fullstack-Software-Engineer-%28EMEA-or-US-based%29-Any/1315723200/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Viasatinc | Cyber Security Software Engineer | San Diego County, California | [Apply](http://careers.viasat.com/jobs/4813/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Beaconbiosignals | Senior Software Engineer | Boston, Massachusetts | [Apply](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4016656009?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Solutions Architect, Software Engineering | Eden Prairie, Minnesota | [Apply](https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2288359&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Senior Software Engineer II- JAVA+React/Node | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2287003&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Icf-icfexternal Career Site | Senior Software Engineer - JAVA - (Remote) | Reston, Virginia | [Apply](https://icf.wd1.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Software-Engineer---JAVA----Remote-_R2501547?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -266,33 +260,32 @@
 | Launchdarkly | Senior Software Engineer - JS SDK | Remote | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/6691059003?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Keeper Security, | Senior Software Engineer, KeeperChat (MAUI) | El Dorado County, California | [Apply](https://apply.workable.com/j/4A16A293D7?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Mercury | Senior Software Engineer - Risk Onboarding | San Francisco, California | [Apply](https://job-boards.greenhouse.io/mercury/jobs/5630275004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Com Backoffice | Sr. Engineer, Software (Remote, US) | Remote | [Apply](https://careers.syniti.com/job/Remote-Sr_-Engineer%2C-Software/1319557700/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Wrapbook | Senior Software Engineer I | Remote | [Apply](https://jobs.ashbyhq.com/wrapbook/67a1b9d7-6ddb-4c3b-a871-d56fcbf1b84f?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Com Backoffice | Sr. Engineer, Software (Remote, US) | Remote | [Apply](https://careers.syniti.com/job/Remote-Sr_-Engineer%2C-Software/1319557700/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Predictiveindex | Software Engineer II | Dedham, Massachusetts | [Apply](https://job-boards.greenhouse.io/predictiveindex/jobs/8133741002?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhaul-uhauljobs | Software Developer (Payment Integrations) | Phoenix, Arizona | [Apply](https://uhaul.wd1.myworkdayjobs.com/uhauljobs/job/Phoenix-Arizona/Software-Developer--Payment-Integrations-_R227208?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Amgen-careers | Senior Developer – Technical Lead, Commercialization | Thousand Oaks, California | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Senior-Developer---Technical-Lead--Commercialization_R-223910?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Amgen-careers | Principal Software Development Engineer | Remote | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Principal-Software-Development-Engineer_R-223493?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | 56ca827d488c9edce842370f906d69ed | Senior Software Developer | Remote | [Apply](https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=232969&clientkey=56CA827D488C9EDCE842370F906D69ED&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Empower2-empower | Lead Software Engineer | Prairie Village, Kansas | [Apply](https://empower.wd1.myworkdayjobs.com/empower/job/Nationwide-Remote/Lead-Software-Engineer_R0052905-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Monarchmoney | Software Engineer, Internal Tools | Remote | [Apply](https://jobs.ashbyhq.com/monarchmoney/62579689-e26e-4547-a666-13c42ac8cedf?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Ca159cb6-724b-4d65-a386-ef202361ead9 | Software Engineer (Remote Option Available) | Wilkes County, North Carolina | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ca159cb6-724b-4d65-a386-ef202361ead9&jobId=386448&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Monarchmoney | Software Engineer, Internal Tools | Remote | [Apply](https://jobs.ashbyhq.com/monarchmoney/62579689-e26e-4547-a666-13c42ac8cedf?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cdw-careers | Angular Software Engineer | Remote | [Apply](https://cdw.wd1.myworkdayjobs.com/careers/job/Remote--USA/Angular-Software-Engineer_R25_00002642?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Fico-external | Front End /Full Stack Engineer (Angular| TypeScript| Go) | Remote | [Apply](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Full-Stack---Front-End-Engineer--Angular-JS---TypeScript--Go_30793?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Com Bnsf | Product, Platform & Enterprise Full Stack Software Engineer (Sr/Staff Software Engineer) (Remote-US) (REMOTE, US, US, 00000) | Remote | [Apply](https://bnsf.jobs2web.com/job/REMOTE-Product%2C-Platform-&-Enterprise-Full-Stack-Software-Engineer-%28SrStaff-Software-Engineer%29-%28Remote-US%29-US-00000/1318617900/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Truelogic | Senior Full-stack Engineer (React/C#) - Marketing | Remote | [Apply](https://jobs.ashbyhq.com/truelogic/6bb45993-2072-4754-9811-eb4ff579a1d5?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Fa-etqo-saasfaprod1.fa.ocs | Python Full Stack Engineer - Associate | Remote | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/526941?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Tas-uhg | Senior Software Engineer - .Net & SQL | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2296429&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Tas-uhg | Software Engineer | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2291506&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Phoenixcybersecurity | Full Stack Developer (React) &#91;Job ID 20250825&#93; | Washington, District of Columbia | [Apply](http://phoenixcybersecurity.applytojob.com/apply/G3fp47nRXU/Full-Stack-Developer-React-Job-ID-20250825?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Senior Software Engineering Lead - front end developer react js, node js | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2287408&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Senior Software Engineer I | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2290173&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Uhg | Lead Full Stack Engineer | Remote | [Apply](https://uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2292791&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | 25633 5439 | Full Stack Developer- AWS & GCP | Remote | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25633&siteid=5439&PageType=JobDetails&jobid=2235150&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | 6b3d4c62-e615-4b36-b3c0-2f33f7039708 | Senior Full Stack Web Developer | Remote | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3525242?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tas-uhg | Senior Software Engineer - .Net & SQL | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2296429&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tas-uhg | Software Engineer | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2291506&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tas-uhg | Full Stack Engineer - Dot Net and Angular | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2298382&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Raft | Senior Full Stack Engineer | Harford County, Maryland | [Apply](https://job-boards.greenhouse.io/raft/jobs/5624846004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cotiviti | Principal Software Engineer (Full Stack Developer) | Remote | [Apply](https://careers-cotiviti.icims.com/jobs/16444/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cotiviti | Principal Software Engineer (Full Stack Developer) | Remote | [Apply](https://globalcareers-cotiviti.icims.com/jobs/16444/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Raft | Senior Full Stack Engineer | Harford County, Maryland | [Apply](https://job-boards.greenhouse.io/raft/jobs/5624846004?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Icf-icfexternal Career Site | Full Stack Engineer (USA/remote) | Reston, Virginia | [Apply](https://icf.wd1.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Senior-Full-Stack-Engineer--remote-_R2501552?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cvshealth-cvs Health Careers | Software Development Engineer | Remote | [Apply](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/NJ---Work-from-home/Software-Development-Engineer_R0680279?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cvshealth-cvs Health Careers | Senior Software Development Engineer - Full Stack | Remote | [Apply](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/Work-At-Home-Rhode-Island/Senior-Software-Development-Engineer---Full-Stack_R0697571?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
